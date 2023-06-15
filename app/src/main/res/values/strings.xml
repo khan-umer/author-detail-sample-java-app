@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EzoBook2</string>
+    <string name="txt_label_author_name">Author Name</string>
+    <string name="show_first_author">Show First Author</string>
+</resources>

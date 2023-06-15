@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="txt_label_author_name">Author Name</string>
+    <string name="show_first_author">Show First Author</string>
+</resources>
